@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "discord.js": "discordjs/discord.js"
-  }
+  },
+  "name": "Projet",
+  "version": "0.1.0",
+  "description": "Projet Bot Discord",
+  "main": "main.js",
+  "repository": "https://github.com/atsuj/botdiscord.git",
+  "author": "Atsuj <ethanthislair1@gmail.com>",
+  "license": "MIT"
 }
